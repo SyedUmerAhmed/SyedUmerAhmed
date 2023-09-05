@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)](https://github.com/SyedUmerAhmed)
 
 <h1 align="center">Hi 👋, I'm Umer Ahmed</h1>
-<h3 align="center">A passionate 2D Animation Artist from Pakistan</h3>
+<h3 align="center">A passionate 2D Animated Explainer Videos Artist, Motion Graphics, App, Web & Lottie Animator</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/69/e7/9069e79ade1ab8a356ab1638b7804086.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedumerahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedumerahmed" /> </p>
